@@ -1,3 +1,9 @@
+This repo contains the code for the following blog post:
+
+<a href="https://justincalleja.com/blog/posts/2021/css-vars-for-react-devs/" target="_blank">https://justincalleja.com/blog/posts/2021/css-vars-for-react-devs/</a>
+
+- - -
+
 # New Project
 
 > ✨ Bootstrapped with Create Snowpack App (CSA).
